@@ -3,16 +3,16 @@ This is a set library that uses Lists as its input and output.
 
 each of the methods takes two Java List objects as input
 
-#UNION
+#### UNION
 returns the union of the two lists as a list
 
-#INTERSECT
+#### INTERSECT
 returns the intersect of the two lists as a list
 
-#COMPLEMENT(DIFFERENCE)
+#### COMPLEMENT(DIFFERENCE)
 returns the complement of the two lists as a list
 
-#PRODUCT
+#### PRODUCT
 returns the product of the two lists as a list of lists
 
 
